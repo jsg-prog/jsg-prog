@@ -42,8 +42,8 @@ fun_fact: Ultra fan de Frutiger Aero
 
 <div align="center">
 
-<!-- Séparateur bleu -->
-✧･ﾟ: *✧･ﾟ:* ☆ *:･ﾟ✧*:･ﾟ✧ ☆ ✧･ﾟ: *✧･ﾟ:* ☆ *:･ﾟ✧*:･ﾟ✧
+<!-- Séparateur bleu animé -->
+<img src="https://i.imgur.com/waxVImv.png" width="500"/>
 
 </div>
 
@@ -63,8 +63,8 @@ fun_fact: Ultra fan de Frutiger Aero
 
 <div align="center">
 
-<!-- Séparateur bleu -->
-✧･ﾟ: *✧･ﾟ:* ☆ *:･ﾟ✧*:･ﾟ✧ ☆ ✧･ﾟ: *✧･ﾟ:* ☆ *:･ﾟ✧*:･ﾟ✧
+<!-- Séparateur bleu animé -->
+<img src="https://i.imgur.com/waxVImv.png" width="500"/>
 
 </div>
 
@@ -94,8 +94,8 @@ fun_fact: Ultra fan de Frutiger Aero
 
 <div align="center">
 
-<!-- Séparateur bleu -->
-✧･ﾟ: *✧･ﾟ:* ☆ *:･ﾟ✧*:･ﾟ✧ ☆ ✧･ﾟ: *✧･ﾟ:* ☆ *:･ﾟ✧*:･ﾟ✧
+<!-- Séparateur bleu animé -->
+<img src="https://i.imgur.com/waxVImv.png" width="500"/>
 
 </div>
 
@@ -115,8 +115,8 @@ fun_fact: Ultra fan de Frutiger Aero
 
 <div align="center">
 
-<!-- Séparateur bleu -->
-✧･ﾟ: *✧･ﾟ:* ☆ *:･ﾟ✧*:･ﾟ✧ ☆ ✧･ﾟ: *✧･ﾟ:* ☆ *:･ﾟ✧*:･ﾟ✧
+<!-- Séparateur bleu animé -->
+<img src="https://i.imgur.com/waxVImv.png" width="500"/>
 
 </div>
 
