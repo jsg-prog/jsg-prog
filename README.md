@@ -43,7 +43,7 @@ fun_fact: Ultra fan de Frutiger Aero
 <div align="center">
 
 <!-- Séparateur bleu animé -->
-<img src="https://i.imgur.com/waxVImv.png" width="500"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="500"/>
 
 </div>
 
@@ -64,7 +64,7 @@ fun_fact: Ultra fan de Frutiger Aero
 <div align="center">
 
 <!-- Séparateur bleu animé -->
-<img src="https://i.imgur.com/waxVImv.png" width="500"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="500"/>
 
 </div>
 
@@ -95,7 +95,7 @@ fun_fact: Ultra fan de Frutiger Aero
 <div align="center">
 
 <!-- Séparateur bleu animé -->
-<img src="https://i.imgur.com/waxVImv.png" width="500"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="500"/>
 
 </div>
 
@@ -116,7 +116,7 @@ fun_fact: Ultra fan de Frutiger Aero
 <div align="center">
 
 <!-- Séparateur bleu animé -->
-<img src="https://i.imgur.com/waxVImv.png" width="500"/>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="500"/>
 
 </div>
 
