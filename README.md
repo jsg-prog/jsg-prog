@@ -14,7 +14,7 @@
 ## ˗ˏˋ ★ About Me ★ ˎˊ˗
 
 ```yaml
-name: jsg-prog
+name: julia
 role: Étudiante en Cybersécurité & Administration Réseaux
 location: France
 currently_learning: ["Ethical Hacking", "Network Security", "Cloud Infrastructure"]
