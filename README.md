@@ -1,15 +1,13 @@
 <div align="center">
 
 <!-- Header avec bannière étoilée -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1445,50:1a237e,100:0d47a1&height=200&section=header&text=jsg-prog&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Student%20ฅᨐฅ&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1445,50:1a237e,100:0d47a1&height=200&section=header&text=Julia&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=jsg-prog%20~%20Cybersecurity%20Student%20ฅᨐฅ&descAlignY=55&descSize=18"/>
 
 <!-- GIF chat kawaii -->
-<img src="https://media1.tenor.com/m/C2Ow8RMdXEgAAAAC/cat-cats.gif" width="150"/>
+<img src="https://media.tenor.com/images/46e74c7aa1ba4d5e1cfe tried4cf3e8c06/tenor.gif" width="150"/>
+<img src="https://i.pinimg.com/originals/e7/76/79/e77679f9c2e1a620c5a94a64e92dc529.gif" width="120"/>
 
 ###  ⋅˚₊‧ ଳ ‧₊˚ ⋅
-
-<!-- Séparateur étoiles bleu -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="500"/>
 
 </div>
 
@@ -134,8 +132,8 @@ fun_fact: Ultra fan de Frutiger Aero
 
 <div align="center">
 
-<!-- Chat mignon -->
-<img src="https://media1.tenor.com/m/4pMKN4VAzyUAAAAC/pixel-cat-transparent.gif" width="80"/>
+<!-- Chat mignon qui code -->
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150"/>
 
 </div>
 
